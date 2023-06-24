@@ -12,7 +12,7 @@
 
 **Скриншот рабочего окна приложения**:
 
-![Скриншот](https://example.com/screenshot.png)
+![Скриншот](https://github.com/LevSebelev/phone_list/blob/main/docs/spravochnik.png?raw=true)
 
 ## Архитектура
 
@@ -22,7 +22,7 @@
 - **Logic (Логика)**: Обрабатывает логику приложения, включая добавление, редактирование, удаление и поиск контактов. Взаимодействует с хранилищем данных.
 - **DAL (Data Access Layer, Уровень доступа к данным)**: Обеспечивает доступ к файлу данных и выполнение операций чтения, записи и удаления.
 
-![Диаграмма классов](https://example.com/class-diagram.png)
+![Диаграмма классов](https://github.com/LevSebelev/phone_list/blob/main/docs/class.png?raw=true)
 
 ## Зависимости
 
